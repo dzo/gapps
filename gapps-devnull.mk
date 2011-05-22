@@ -2,6 +2,7 @@
 PRODUCT_COPY_FILES += \
     vendor/devnull/gapps/system/app/FOTAKill.apk:system/app/FOTAKill.apk \
     vendor/devnull/gapps/system/app/GenieWidget.apk:system/app/GenieWidget.apk \
+    vendor/devnull/gapps/system/app/Gmail.apk:system/app/Gmail.apk \
     vendor/devnull/gapps/system/app/GoogleBackupTransport.apk:system/app/GoogleBackupTransport.apk \
     vendor/devnull/gapps/system/app/GoogleCalendarSyncAdapter.apk:system/app/GoogleCalendarSyncAdapter.apk \
     vendor/devnull/gapps/system/app/GoogleContactsSyncAdapter.apk:system/app/GoogleContactsSyncAdapter.apk \
